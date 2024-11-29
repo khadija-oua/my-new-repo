@@ -1,0 +1,24 @@
+# Ignore system files and personal directories
+*.lnk
+*.exe
+*.msi
+*.tmp
+*.ini
+*.log
+~$*
+/../*
+
+# Ignore Windows and OneDrive-specific folders
+Application Data/
+AppData/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Videos/
+Pictures/
+Saved Games/
+Searches/
+
